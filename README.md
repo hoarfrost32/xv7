@@ -1,7 +1,5 @@
 # MODIFYING XV6-RISCV
 
-## Aditya Tejpaul | 2021111025
-
 ***
 
 ## Overview
