@@ -1,6 +1,5 @@
 # MODIFYING XV6-RISCV
 
-## Harshit Karwal | 2021101088
 ## Aditya Tejpaul | 2021111025
 
 ***
